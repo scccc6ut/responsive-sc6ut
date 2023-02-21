@@ -1,4 +1,6 @@
-# responsive-portfolio-website
+# responsive-sc6ut
+#### 预览
+https://scccc6ut.github.io/
 
 #### 介绍
 响应式个人简介网页 :sparkles: 
